@@ -42,7 +42,7 @@ public class Principal {
             System.out.println("4 - Imprimir Todos os Empregados");
             System.out.println("5 - Cadastrar Departamentos");
             System.out.println("6 - Imprimir Todos os Departamentos");
-            System.out.println("7 - Selecionar um Objeto");
+            System.out.println("7 - Procurar um Objeto");
             System.out.println("0 - Sair");
             System.out.println("Digite uma opcao: ");
             opcao = teclado.nextInt();
